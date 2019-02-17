@@ -83,6 +83,7 @@ Style Modules is still experimental (currently in open alpha), and isn't ready f
 
 You can join the development process by opening an issue in the [style-modules/alpha](https://github.com/style-modules/alpha/issues) issue tracker or by joining the style modules [gitter chat](https://gitter.im/style-modules).
 
----
 <br />
+<div style="text-align: center;">
 <small>Style Modules Copyright &copy; 2019 Samuel Champagne & Style Modules Contributors</small>
+</div>
