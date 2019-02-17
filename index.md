@@ -36,7 +36,7 @@ Variables that are set in a **config file**
 }
 ```
 
-That can be overridden for a specific section of your code by combining **CSS Variables** with **CSS cascade**
+That can be overridden for a specific section of your code by combining **CSS Variables** with **CSS Cascade**
 
 ```css
 /* project-styles.css */
@@ -84,5 +84,5 @@ Style Modules is still experimental (currently in open alpha), and isn't ready f
 You can join the development process by opening an issue in the [style-modules/alpha](https://github.com/style-modules/alpha/issues) issue tracker or by joining the style modules [gitter chat](https://gitter.im/style-modules).
 
 ---
-
-Style Modules Copyright &copy; 2019 Samuel Champagne & Style Modules Contributors
+<br />
+<small>Style Modules Copyright &copy; 2019 Samuel Champagne & Style Modules Contributors</small>
